@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\models\\qlsachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\models\\qlsachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\models\\qlcongnhancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\models\\qlcongnhancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\models\\qlnscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\models\\qlnscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\models\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\models\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\models\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\models\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\baimau.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\baimau.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\dethi\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EC4AB050-1F9B-466C-8831-884991EA35E8}|DeThi\\DeThi.csproj|solutionrelative:dethi\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\decachieu\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E9270F-8474-4A32-8611-927BBDFCC267}|DeCaChieu\\DeCaChieu.csproj|solutionrelative:decachieu\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|e:\\dotnet_haui_2025\\thi k\u1EBFt th\u00FAc h\u1ECDc ph\u1EA7n\\code\\baimau\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F57C30D2-48A2-4F92-A67D-DAB3E90F1792}|BaiMau\\BaiMau.csproj|solutionrelative:baimau\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BaiMau\\MainWindow.xaml",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml",
+              "RelativeToolTip": "BaiMau\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T06:43:58.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLNSContext.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\Models\\QLNSContext.cs",
+              "RelativeDocumentMoniker": "DeCaChieu\\Models\\QLNSContext.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\Models\\QLNSContext.cs",
+              "RelativeToolTip": "DeCaChieu\\Models\\QLNSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:49:36.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "BaiMau\\Models\\Sach.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\Sach.cs",
+              "RelativeToolTip": "BaiMau\\Models\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:50:06.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DeThi\\MainWindow.xaml",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\MainWindow.xaml",
+              "RelativeToolTip": "DeThi\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T12:12:40.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "DeCaChieu\\DetailWindow.xaml",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\DetailWindow.xaml",
+              "RelativeToolTip": "DeCaChieu\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T13:22:02.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DeCaChieu\\MainWindow.xaml",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\MainWindow.xaml",
+              "RelativeToolTip": "DeCaChieu\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T12:37:57.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TacGia.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\TacGia.cs",
+              "RelativeDocumentMoniker": "BaiMau\\Models\\TacGia.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\TacGia.cs",
+              "RelativeToolTip": "BaiMau\\Models\\TacGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:28:18.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QlsachContext.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\QlsachContext.cs",
+              "RelativeDocumentMoniker": "BaiMau\\Models\\QlsachContext.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\Models\\QlsachContext.cs",
+              "RelativeToolTip": "BaiMau\\Models\\QlsachContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:28:49.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BaiMau\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BaiMau\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAuwL8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:44:38.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\Phong.cs",
+              "RelativeDocumentMoniker": "DeThi\\Models\\Phong.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\Phong.cs",
+              "RelativeToolTip": "DeThi\\Models\\Phong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:28:01.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QLCongNhanContext.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\QLCongNhanContext.cs",
+              "RelativeDocumentMoniker": "DeThi\\Models\\QLCongNhanContext.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\QLCongNhanContext.cs",
+              "RelativeToolTip": "DeThi\\Models\\QLCongNhanContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:28:31.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeCaChieu\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DeCaChieu\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAjwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:37:57.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhongBan.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\Models\\PhongBan.cs",
+              "RelativeDocumentMoniker": "DeCaChieu\\Models\\PhongBan.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\Models\\PhongBan.cs",
+              "RelativeToolTip": "DeCaChieu\\Models\\PhongBan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:52:06.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DeCaChieu\\Models\\NhanVien.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\Models\\NhanVien.cs",
+              "RelativeToolTip": "DeCaChieu\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:52:02.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CongNhan.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\CongNhan.cs",
+              "RelativeDocumentMoniker": "DeThi\\Models\\CongNhan.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\Models\\CongNhan.cs",
+              "RelativeToolTip": "DeThi\\Models\\CongNhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:47:16.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "DeThi\\DetailWindow.xaml",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\DetailWindow.xaml",
+              "RelativeToolTip": "DeThi\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T07:14:03.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeThi\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DeThi\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAuwLsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:12:45.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeThi\\DetailWindow.xaml.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeThi\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "DeThi\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:14:01.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaiMau.csproj",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\BaiMau.csproj",
+              "RelativeDocumentMoniker": "BaiMau\\BaiMau.csproj",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\BaiMau.csproj",
+              "RelativeToolTip": "BaiMau\\BaiMau.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T14:14:30.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BaiMau\\DetailWindow.xaml.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "BaiMau\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:48:05.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeCaChieu\\DetailWindow.xaml.cs",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\DeCaChieu\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "DeCaChieu\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:24:37.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "BaiMau\\DetailWindow.xaml",
+              "ToolTip": "E:\\DotNet_Haui_2025\\THI K\u1EBET TH\u00DAC H\u1ECCC PH\u1EA6N\\Code\\BaiMau\\DetailWindow.xaml",
+              "RelativeToolTip": "BaiMau\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T06:47:51.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

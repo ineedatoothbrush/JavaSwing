@@ -1,0 +1,62 @@
+Bước 0: Vào Sqlserver copy paste script 
+
+﻿Create database QLSach
+go
+Use QLSach
+Go
+Create table TacGia(MaTG nchar(10) not null primary key,TenTacGia nvarchar(50) not null)
+Create table Sach(MaSach nchar(10) not null primary key, TenSach nvarchar(50) not null, NamXuatBan
+int, SoTrang int, MaTG nchar(10) constraint fk_S_TG foreign key(MaTG) References TacGia(MaTG))
+Go
+Insert into TacGia values('TG1',N'Lê Anh Tuấn'),
+('TG2',N'Nguyễn Minh Tùng')
+Insert into Sach values('S01',N'Thép đã nung thế đó',2020,130,'TG1'),
+('S02',N'Túp lều của bác Tùng',2021,150,'TG2'),
+('S03',N'Ông già và ao nhỏ',2022,100,'TG1')
+
+
+
+/**********dđề thi ca chiều **************/
+create database QLNS 
+go
+Use QLNS
+Go
+Create table PhongBan(MaPhongBan nchar(10) not null primary key,TenPhongBan nvarchar(50) not null)
+Create table NhanVien(MaNhanVien nchar(10) not null primary key, TuNgay date not null, DenNgay date not null, MaPhongBan nchar(10) constraint fk_S_TG foreign key(MaPhongBan) References PhongBan(MaPhongBan))
+Go
+Insert into PhongBan values('PB01',N'Tổ chức'),
+('PB02',N'Sales')
+Insert into NhanVien values('NV01','2022-12-22','2022-12-25', 'PB01'),
+('NV02','2022-12-22','2022-12-25', 'PB02'),
+('NV03','2022-12-22','2022-12-25', 'PB01')
+
+
+
+create database QLCongNhan
+go
+Use QLCongNhan
+Go
+Create table Phong(MaPhong nchar(10) not null primary key,TenPhong nvarchar(50) not null)
+Create table CongNhan(MaCongNhan nchar(10) not null primary key, HoTen nvarchar(50) not null, NgayCong
+int not null, PhuCap int not null, MaPhong nchar(10) constraint fk_S_TG foreign key(MaPhong) References Phong(MaPhong))
+Go
+Insert into Phong values('P01',N'Phòng A'),
+('P02',N'Phòng B')
+Insert into CongNhan values('CN01',N'Bùi ',120,100,'P01'),
+('CN02',N'Bùi Hoa',160,100,'P02'),
+('CN03',N' Na',140,100,'P01')
+
+
+
+Bước 1: Vào Vscode, Cài packages Microsoft.EntityFrameWorkCore.SqlServer và Microsoft.EntityFrameWorkCore.Tools => Nhấp vào Tools => Chọn Nuget Package => Chọn Manage Nuget => Rồi chọn Browser => Tìm kiếm 2 package rồi add
+Bước 2: Nhấn View => Chọn Server Explorer => Kích chuột phải vào Data Connections => Chọn Add Connection 
+Bước 3: Cần điền Field Server name => Vào Sqlserver kích chuột phải vào tên máy => Chọn Properties => Copy name rồi paste vào Field Server name
+Bước 4: Tích chọn "Trust Server certificate"
+Bước 5: Select database name
+Bước 6: Tích chọn Test Connection => Nếu thành công thì nhấn chọn OK
+Bước 7: Kích chuột phải vào  Data Connections => Chọn refresh => Kích chuột phải vào tên db => Chọn Properties => Copy phần Connection String
+Bước 8: Nhấp vào Tools => Chọn Nuget Package => Chọn Console => Lưu ys trong Console nhớ cần phải chỉnh Default project thành tên của project cần kết nối 
+Bước 9: Scaffold-DbContext "${Connection String}" Microsoft.EntityFrameWorkCore.SqlServer -OutputDir Models
+Mẫu như (Scaffold-DbContext "Data Source=Huyen;Initial Catalog=QLSach;Integrated Security=True;Trust Server Certificate=True" Microsoft.EntityFrameWorkCore.SqlServer -OutputDir Models)
+Bước 10: Nếu xuất hiện Build started...Build succeeded. => Thành công
+
