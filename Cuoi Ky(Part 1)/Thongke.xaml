@@ -1,0 +1,17 @@
+﻿<Window x:Class="Cuoi_Ky_Part_1_.Thongke"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cuoi_Ky_Part_1_"
+        mc:Ignorable="d"
+        Title="Thongke" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid x:Name="thongke" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Tên phòng ban" Width="*" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Số lượng" Width="*" Binding="{Binding Count}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
